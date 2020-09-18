@@ -8,7 +8,9 @@
   },
   "author": "Maik Hummel <m@ikhummel.com> (https://beevelop.com)",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "grunt-cli": "^1.3.2"
+  },
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-uglify": "2.0.0",
