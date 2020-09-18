@@ -16,7 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "feathers-client": "beevelop/feathers-client#master",
+    "feathers-client": "tippstube/feathers-client#master",
     "socket.io-client": "1.4.8"
   },
   "resolutions": {
